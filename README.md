@@ -5,7 +5,7 @@ This repository contains the code and resources for implementing an automatic at
 The automatic attendance system implemented in this repository leverages the power of OpenCV and the Face Recognition library to detect and recognize faces. The system is designed to streamline the attendance process in various settings, such as classrooms, conferences, or office environments.
 
 ## Key Features 
-* Real-time face detection and tracking using Haar cascades.
+* Real-time face detection and tracking using HOG encodings.
 * Face recognition using the Face Recognition library.
 * Automatic marking of attendance based on recognized faces.
 * Exporting attendance records to a CSV file for further analysis.
